@@ -1,0 +1,29 @@
+package com.aarondomo.viewplayground;
+
+
+public enum ViewsCatalog {
+
+    BUTTON,
+    CHECKBOX,
+    CHECKED_TEXT_VIEW,
+    CHRONOMETER,
+    EDIT_TEXT,
+    IMAGE_BUTTON,
+    IMAGE_VIEW,
+    MULTI_AUTO_COMPLETE_TEXT_VIEW,
+    NUMBER_PICKER,
+    PROGRESS_BAR,
+    QUICK_CONTACT_BADGE,
+    RADIO_BUTTON,
+    RATING_BAR,
+    SEARCH_VIEW,
+    SEEK_BAR,
+    SPACE,
+    SWITCH,
+    TEXT_CLOCK,
+    TEXT_VIEW,
+    TOGGLE_BUTTON,
+    ZOOM_CONTROLS
+
+
+}
